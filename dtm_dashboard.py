@@ -1000,4 +1000,4 @@ def update_output(selected_state, selected_lga):
     # run app
 
     if __name__ == '__main__':
-      app.run_server(debug=False)
+      app.run_server(debug=True)
