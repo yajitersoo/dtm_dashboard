@@ -9,7 +9,7 @@ from dash import dcc
 from dash.dependencies import Input, Output
 from dash import html
 import dash_bootstrap_components as dbc
-from jupyter_dash import JupyterDash
+# from jupyter_dash import JupyterDash
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 
