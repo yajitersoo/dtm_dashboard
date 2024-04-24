@@ -1,15 +1,12 @@
 import pandas as pd 
 import plotly.express as px
 import numpy as np
-# import dash_table as dt
-from dash import dash_table
 import dash
-# import dash_core_components as dcc
+from dash import dash_table
 from dash import dcc
 from dash.dependencies import Input, Output
 from dash import html
 import dash_bootstrap_components as dbc
-# from jupyter_dash import JupyterDash
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 
