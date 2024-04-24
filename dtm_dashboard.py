@@ -1,9 +1,10 @@
 import pandas as pd 
 import plotly.express as px
 import numpy as np
-import dash_table as dt
+# import dash_table as dt
 import dash
-import dash_core_components as dcc
+# import dash_core_components as dcc
+from dash import dcc
 from dash.dependencies import Input, Output
 import plotly.express as px
 import dash_bootstrap_components as dbc
