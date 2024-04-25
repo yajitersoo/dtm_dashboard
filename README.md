@@ -31,6 +31,7 @@ This functionality empowers stakeholders to monitor progress and make well-infor
 <p align = "left"><br/>
  
   <br/>
+ <p align = "center"><br/>
 <img src="https://yajitersoo.github.io/jsonapi/dtm dashbpoard image.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
