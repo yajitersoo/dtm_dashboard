@@ -5,4 +5,4 @@ numpy
 plotly
 dash-bootstrap-components
 openpyxl
-Flask==2.4.1
+Flask
